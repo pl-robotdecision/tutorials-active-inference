@@ -7,5 +7,5 @@ This set of exercises were created and adapted for the Active Self Summer school
 If you use the code, please cite the corresponding citation described in each of the jupyter notebooks.
 
 ## Content
-1. **The sensing wheel**. Perception as an inference process: predictive processing. (Easy)
-2. **Pixel Predictive Processing**. Deep learning + Free energy optimization on the MINST dataset. (Advanced) 
+1. **The sensing wheel**. Perception as an inference process: predictive processing. (difficulty: *Easy*)
+2. **Pixel Predictive Processing**. Deep learning + Free energy optimization on the MINST dataset. (difficulty: *Medium*) 
