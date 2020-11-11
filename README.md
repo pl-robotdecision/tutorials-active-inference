@@ -1,6 +1,7 @@
 # Free Energy Principle and Active Inference tutorials for newbies
 
-Author: [Pablo Lanillos](https://www.ru.nl/english/people/lanillos-p/) Assistant Professor Cognitive AI. [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/). The Netherlands.
+**Author: [Pablo Lanillos]**(https://www.ru.nl/english/people/lanillos-p/) 
+Assistant Professor Cognitive AI. [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/). The Netherlands.
 
 This set of exercises were created and adapted for the Active Self Summer school and the NeurIPS course at the department of Artificial Intelligence, Radboud University.
 
