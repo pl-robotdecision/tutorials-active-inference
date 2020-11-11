@@ -6,13 +6,14 @@ This set of exercises were created and adapted for the Active Self Summer school
 
 If you use any of the codes, please cite the corresponding citation described in each of the jupyter notebooks.
 
-## Content
+## Exercises added
 1. **The sensing wheel**. Perception as an inference process: predictive processing. (difficulty: *Easy*)
 2. **Pixel Predictive Processing**. Deep learning + Free energy optimization on the MINST dataset. (difficulty: *Medium*) 
 
 
+## Solutions
 The solutions will be provided soon in a different folder.
 
-In preparation:
+## In preparation
 3. FEP Vehicle
 4. Rubber-hand illusion drift modelling
