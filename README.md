@@ -1,4 +1,4 @@
-# Free Energy Principle and Active Inference tutorials for newbies
+## Free Energy Principle and Active Inference tutorials for newbies and also experts :)
 
 ### Author: [Pablo Lanillos](https://www.ru.nl/english/people/lanillos-p/) 
 Assistant Professor Cognitive AI. [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/). The Netherlands.
