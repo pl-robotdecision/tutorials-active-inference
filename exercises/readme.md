@@ -1,7 +1,3 @@
 # Jupyter notebooks
-To solve exercises:
-- 1_FEP_TheSensingWheel_Perception_exercise
-- 2_FEP_PixelAI_MNIST_exercise
-
-The solutions are provided in a different folder
+This notebooks are exercises that you can complete to learn and evaluate your knowledge about the Free Energy Principle and Active Inference. The solutions are provided in a different folder.
 
