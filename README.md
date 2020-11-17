@@ -7,6 +7,8 @@ This set of exercises was created and adapted for different venues, such as the 
 
 If you use any of the codes, please cite the corresponding citation described in each of the jupyter notebooks.
 
+![](http://therobotdecision.com/wp-content/uploads/2020/05/brain-300x154.jpg)
+
 ## Exercises added - folder exercises
 In exercises you can find notebooks with the description of the problem and gaps in the code that you have to fill in.
 
